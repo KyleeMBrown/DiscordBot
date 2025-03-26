@@ -21,7 +21,7 @@ class CharacterInfo(commands.Cog):  # Using commands.Cog even though you have on
         
 
         for character in data:
-            if (character["name"].lower() in user_str and "info" in user_str) or orig_str in character["shortcuts"]:
+            if (character["name"].lower() in user_str and "info" in user_str) or orig_str.lower() in character["shortcuts"]:
                 characterCard = discord.Embed(
                     title=character["name"],
                     description=f'''

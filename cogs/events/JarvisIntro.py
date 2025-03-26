@@ -14,7 +14,7 @@ class Intro(commands.Cog):  # Using commands.Cog even though you have only event
                 description='''I am your **Marvel Rivals** Companion here to make
                 your experience better:\n
                 **I can...**
-                Get character summaries:
+                \nGet character summaries:
                    > • Just send a message like *"Mantis Information"*
                 \nAssemble a team and measure Compatiability:
                     > • just send a message like *"Assemble team"*
