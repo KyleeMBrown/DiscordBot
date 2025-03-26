@@ -15,7 +15,7 @@ TOKEN = os.getenv("TOKEN")
 #client = discord.Client(intents=intents)
 
 bot = commands.Bot(command_prefix="!", intents=intents)
-cogs = ["events.JarvisIntro", "events.CharacterInfo"]
+cogs = ["events.JarvisIntro", "events.CharacterInfo", "events.JarvisAI"]
 async def load_cogs():
     for cog in cogs:
         await bot.load_extension(f"cogs.{cog}")
