@@ -20,15 +20,17 @@ class CharacterInfo(commands.Cog):  # Using commands.Cog even though you have on
         user_str = user_str.replace("&", "and").lower()
         #print(user_str)
         for character in data:
-            if character["name"] in user_str and "info" in user_str:
+            if character["name"].lower() in user_str and "info" in user_str:
                 characterCard = discord.Embed(
                     title=character["name"],
                     description=f'''
-                    Pick Rate: {character['pickRate']}
-                    Win Rate: {character['winRate']}
-                    '''
+                    Role: {character['role']}\n
+                    Pick Rate: {character['pickRate']}%
+                    Win Rate: {character['winRate']}%
+                    ''',
+                    color=discord.Color.dark_gold()
                 )
-                characterCard.set_image(url=character['url'])
+                characterCard.set_thumbnail(url=character['url'])
                 user = message.author
                 await message.channel.send(f'Here is some info on **{character["name"]}** {user.mention}!' )
                 await message.channel.send(embed=characterCard )
