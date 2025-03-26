@@ -25,7 +25,7 @@ class Intro(commands.Cog):  # Using commands.Cog even though you have only event
         )
         
         if guild.system_channel:
-            await guild.channel.send(embed=jarvisIntroText)
+            await guild.system_channel.send(embed=jarvisIntroText)
 
 # Setup the cog
 async def setup(bot):

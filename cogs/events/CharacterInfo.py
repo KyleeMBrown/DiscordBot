@@ -16,11 +16,12 @@ class CharacterInfo(commands.Cog):  # Using commands.Cog even though you have on
     async def on_message(self, message):
         if message.author == self.bot.user:
             return
-        user_str = message.content
-        user_str = user_str.replace("&", "and").lower()
-        #print(user_str)
+        orig_str = message.content
+        user_str = orig_str.replace("&", "and").lower()
+        
+
         for character in data:
-            if character["name"].lower() in user_str and "info" in user_str:
+            if (character["name"].lower() in user_str and "info" in user_str) or orig_str in character["shortcuts"]:
                 characterCard = discord.Embed(
                     title=character["name"],
                     description=f'''
