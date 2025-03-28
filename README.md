@@ -13,6 +13,11 @@ the users the ability to ask any question to the JarvisBot, much like the actual
 - `t2.micro` Instance type
 - I used `tmux` to run my bot in the background
 
+## Future Additions & Features:
+- Integrate Jarvis AI memory with Discord chat memory for a more seamless conversation experience
+- Allow players to check their own live stats of other games (not just Marvel Rivals)
+- Ability for users to administer polls to the server by typing a command to JarvisBot
+
 ## Sources:
 
 Character Information: [source](https://www.marvelrivals.com/heroes_data/)
