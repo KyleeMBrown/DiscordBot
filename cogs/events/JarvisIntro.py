@@ -16,17 +16,17 @@ class Intro(commands.Cog):  # Using commands.Cog even though you have only event
                 **I can...**
                 \nGet character summaries:
                    > • Just send a message like *"Mantis Information"*
-                \nAssemble a team and measure Compatiability:
-                    > • just send a message like *"Assemble team"*
-                \nAdminister Polls:
-                    > • just send a message like *"Poll for Strategists"*
+                   > • Or use shortcut like "iw" for invisible woman or "cd" for cloak and dagger
+                \nAssemble a team through Jarvis AI:
+                    > • just send a message like *"Jarvis assemble a marval rivals team"*
+                \n Please Enjoy!
+                \n ~ Developers
                   ''',
                 color=discord.Color.red()
         )
         
         if guild.system_channel:
             await guild.system_channel.send(embed=jarvisIntroText)
-
 # Setup the cog
 async def setup(bot):
     await bot.add_cog(Intro(bot))
