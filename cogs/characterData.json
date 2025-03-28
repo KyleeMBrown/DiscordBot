@@ -1,0 +1,299 @@
+[
+    {
+        "name":"Cloak and Dagger",
+        "role":"Strategist",
+        "pickRate": 18.84,
+        "winRate": 51.42,
+        "shortcuts":["c&d", "cd"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/607645c7a6cff77a89c415cd940c1ce973387155/images/cloackandDagger.jpg"
+    },
+    {
+        "name":"Invisible Woman",
+        "role":"Strategist",
+        "pickRate": 18.12,
+        "winRate": 50.17,
+        "shortcuts":["iw"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/607645c7a6cff77a89c415cd940c1ce973387155/images/invisiblewoman.png"
+    },
+    {
+        "name":"Doctor Strange",
+        "role":"Vanguard",
+        "pickRate": 15.50,
+        "winRate": 50.72,
+        "shortcuts":["ds", "dr", "dr strange info", "dr strange"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/607645c7a6cff77a89c415cd940c1ce973387155/images/DrStrange.jpg"
+    },
+    {
+        "name":"Venom",
+        "role":"Vanguard",
+        "pickRate": 14.42,
+        "winRate": 50.08,
+        "shortcuts":["ven"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/607645c7a6cff77a89c415cd940c1ce973387155/images/venom.jpg"
+    },
+    {
+        "name":"Peni Parker",
+        "role":"Vanguard",
+        "pickRate": 14.29,
+        "winRate": 54.82,
+        "shortcuts":["pp", "peni"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/peniParker.jpg"
+    },
+    {
+        "name":"Rocket Raccoon",
+        "role":"Strategist",
+        "pickRate": 13.99,
+        "winRate": 55.23,
+        "shortcuts":["rocket", "rr"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/RocketRaccoon.jpg"
+    },
+    {
+        "name":"Thor",
+        "role":"Vanguard",
+        "pickRate": 13.23,
+        "winRate": 54.71,
+        "shortcuts":["thor"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/thor.jpg"
+    },
+    {
+        "name":"Luna Snow",
+        "role":"Strategist",
+        "pickRate": 12.61,
+        "winRate": 48.97,
+        "shortcuts":["ls","luna","snow"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/lunaSnow.jpg"
+    },
+    {
+        "name":"Magneto",
+        "role":"Vanguard",
+        "pickRate": 12.60,
+        "winRate": 50.43,
+        "shortcuts":["magneto"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/magneto.png"
+    },
+    {
+        "name":"Jeff",
+        "role":"Strategist",
+        "pickRate": 11.39,
+        "winRate": 44.61,
+        "shortcuts":["jeff"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/jeff.png"
+    },
+    {
+        "name":"Groot",
+        "role":"Vanguard",
+        "pickRate": 11.01,
+        "winRate": 50.32,
+        "shortcuts":["groot"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/groot.png"
+    },
+    {
+        "name":"Mantis",
+        "role":"Strategist",
+        "pickRate": 10.24,
+        "winRate": 55.65,
+        "shortcuts":["mantis"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/12076681ea9b5049156d9cd3c8008a6cd0255730/images/mantis.jpg"
+    },
+    {
+        "name":"Captain America",
+        "role":"Vanguard",
+        "pickRate": 9.98,
+        "winRate": 53.45,
+        "shortcuts":["merica", "captain"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/captainAmerica.png"
+    },
+    {
+        "name":"Moon Knight",
+        "role":"Duelist",
+        "pickRate": 8.99,
+        "winRate": 49.09,
+        "shortcuts":["knight", "mk"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/moonKnight.png"
+    },
+    {
+        "name":"Hulk",
+        "role":"Vanguard",
+        "pickRate": 8.98,
+        "winRate": 51.87,
+        "shortcuts":["im angry", "hulk"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/hulk.png"
+    },
+    {
+        "name":"Loki",
+        "role":"Strategist",
+        "pickRate": 8.22,
+        "winRate": 52.55,
+        "shortcuts":["loki", "trickster"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/loki.jpg"
+    },
+    {
+        "name":"Winter Soldier",
+        "role":"Duelist",
+        "pickRate": 8.22,
+        "winRate": 52.55,
+        "shortcuts":["ws", "buckey"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/winterSoldier.jpg"
+    },
+    {
+        "name":"Punisher",
+        "role":"Duelist",
+        "pickRate": 7.58,
+        "winRate": 48.32,
+        "shortcuts":["punisher"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/3b6715aa8df7124accb31566d0dca23a87c89e47/images/punisher.png"
+    },
+    {
+        "name":"Spider Man",
+        "role":"Duelist",
+        "pickRate": 6.96,
+        "winRate": 49.45,
+        "shortcuts":["sm", "spidey", "spider man"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/spiderman.jpg"
+    },
+    {
+        "name":"Adam Warlock",
+        "role":"Strategist",
+        "pickRate": 6.59,
+        "winRate": 52.42,
+        "shortcuts":["adam warlock", "warlock", "aw"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/adamWarlock.jpg"
+    },
+    {
+        "name":"Psylocke",
+        "role":"Duelist",
+        "pickRate": 6.50,
+        "winRate": 50.17,
+        "shortcuts":["psy", "psylocke"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/psylocke.png"
+    },
+    {
+        "name":"Squirrel Girl",
+        "role":"Duelist",
+        "pickRate": 6.15,
+        "winRate": 50.40,
+        "shortcuts":["squirrel", "sg"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/squirrelgirl.png"
+    },
+    {
+        "name":"Scarlet Witch",
+        "role":"Duelist",
+        "pickRate": 6.06,
+        "winRate": 50.48,
+        "shortcuts":["scarlet", "wanda", "sw"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/12076681ea9b5049156d9cd3c8008a6cd0255730/images/scarletWitch.png"
+    },
+    {
+        "name":"Star Lord",
+        "role":"Duelist",
+        "pickRate": 5.90,
+        "winRate": 49.15,
+        "shortcuts":["sl", "star lord", "lord"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/starloard.png"
+    },
+    {
+        "name":"Iron Man",
+        "role":"Duelist",
+        "pickRate": 5.83,
+        "winRate": 50.08,
+        "shortcuts":["im", "iron man"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/ironMan.png"
+    },
+    {
+        "name":"Mister Fantastic",
+        "role":"Strategist",
+        "pickRate": 5.03,
+        "winRate": 53.99,
+        "shortcuts":["mr fantastic", "mr. fantastic", "mf"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/12076681ea9b5049156d9cd3c8008a6cd0255730/images/mrfantastic.png"
+    },
+    {
+        "name":"Magik",
+        "role":"Duelist",
+        "pickRate": 4.75,
+        "winRate": 53.14,
+        "shortcuts":["magik", "magic"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/magik.png"
+    },
+    {
+        "name":"Namor",
+        "role":"Duelist",
+        "pickRate": 4.19,
+        "winRate": 50.72,
+        "shortcuts":["namor"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/namor.png"
+    },
+    {
+        "name":"Hela",
+        "role":"Duelist",
+        "pickRate": 3.97,
+        "winRate": 50.07,
+        "shortcuts":["hela"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/hela.jpg"
+    },
+    {
+        "name":"Storm",
+        "role":"Duelist",
+        "pickRate": 3.73,
+        "winRate": 58.11,
+        "shortcuts":["storm"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/storm.jpg"
+    },
+    {
+        "name":"Wolverine",
+        "role":"Duelist",
+        "pickRate": 3.69,
+        "winRate": 49.41,
+        "shortcuts":["wolverine"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/wolverine.jpg"
+    },
+    {
+        "name":"Black Panther",
+        "role":"Duelist",
+        "pickRate": 3.45,
+        "winRate": 49.89,
+        "shortcuts":["bp", "panther"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/blackpanther.jpg"
+    },
+    {
+        "name":"Hawkeye",
+        "role":"Duelist",
+        "pickRate": 3.26,
+        "winRate": 44.63,
+        "shortcuts":["hawk", "hawkeye"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/hawkeye.png"
+    },
+    {
+        "name":"Iron Fist",
+        "role":"Duelist",
+        "pickRate": 3.11,
+        "winRate": 49.95,
+        "shortcuts":["if", "fist"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/ironfist.jpg"
+    },
+    {
+        "name":"Black Widow",
+        "role":"Duelist",
+        "pickRate": 2.76,
+        "winRate": 42.31,
+        "shortcuts":["bw", "widow"],
+        "url": "https://raw.githubusercontent.com/KyleeMBrown/DiscordBot/b41d8131cabcefe503192d68c7c41d89265fed7d/images/blackWidow.png"
+    },
+    {
+        "name":"Human Torch - data coming soon",
+        "role":"Duelist \ndata coming soon",
+        "pickRate": 0,
+        "winRate": 0,
+        "shortcuts":["torch", "ht"],
+        "url": ""
+    },
+    {
+        "name":"The Thing - data coming soon",
+        "role":"Duelist \ndata coming soon",
+        "pickRate": 0,
+        "winRate": 0,
+        "shortcuts":["thing", "tt"],
+        "url": ""
+    }
+    
+]
