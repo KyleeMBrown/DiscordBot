@@ -1,4 +1,4 @@
-# JarvisBot 
+# JarvisBot -> [Demo Here](https://discord.com/oauth2/authorize?client_id=1353878573861179402&permissions=1689934340028480&integration_type=0&scope=bot)
 ## Brief Summary:
 I created this Discord bot to be able to look up Marvel Rivals characters and view their stats. I also integrated Google AI in order to give
 the users the ability to ask any question to the JarvisBot, much like the actual Jarvis in Marvel
