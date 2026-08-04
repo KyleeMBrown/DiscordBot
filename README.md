@@ -8,10 +8,10 @@ the users the ability to ask any question to the JarvisBot, much like the actual
 - Google Genai
 <br></br>
 ## Hosting
-### Amazon Web Services EC2:
+### Oracle Cloud Interface:
 - UBUNTU Operating System
-- `t2.micro` Instance type
-- I used `tmux` to run my bot in the background
+- `VM.Standard.E5.Flex` Instance shape
+- I used `systemctl` to run my bot in the background
 
 ## Future Additions & Features:
 - Integrate Jarvis AI memory with Discord chat memory for a more seamless conversation experience
