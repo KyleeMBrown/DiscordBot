@@ -29,7 +29,7 @@ class JarvisAI(commands.Cog):  # Using commands.Cog even though you have only ev
         
         if orig_str.lower().startswith("jarvis"):
             response = client.models.generate_content(
-            model="gemini-2.5-flash", contents=f"{content} in 2000 characters or less"
+            model="gemini-flash-latest", contents=f"{content} in 2000 characters or less"
             )
             #print(response.text)
             #print(content)
