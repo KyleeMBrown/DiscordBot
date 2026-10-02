@@ -8,10 +8,13 @@ the users the ability to ask any question to the JarvisBot, much like the actual
 - Google Genai
 <br></br>
 ## Hosting
-### Oracle Cloud Interface:
-- UBUNTU Operating System
-- `VM.Standard.E5.Flex` Instance shape
-- I used `systemctl` to run my bot in the background
+### FadeHost:
+- Python-based Discord bot hosting
+- GitHub repository deployment
+- `discord.py` Discord bot
+- Google GenAI API integration
+- Host-managed background process
+- Automatic bot restarts
 
 ## Future Additions & Features:
 - Integrate Jarvis AI memory with Discord chat memory for a more seamless conversation experience
